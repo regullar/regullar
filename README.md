@@ -1,6 +1,6 @@
 # Hi 👋, I'm regullar
 
-postedondalbock
+postedondabock
 
 ## 🚀 Languages and Tools I Use
 
